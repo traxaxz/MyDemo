@@ -1,0 +1,8 @@
+#canvas{
+    width: 1335px;
+    height: 500px;
+    background-color:black;
+}
+#source, #rocket_img, #play_pause_button{
+    display: none;
+}
